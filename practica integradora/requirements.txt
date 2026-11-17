@@ -1,0 +1,20 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+streamlit
+joblib
+
+Librería	Función
+pandas	Manipulación de datos
+numpy	Operaciones numéricas
+matplotlib	Gráficas
+seaborn	Visualización estadística
+plotly	Gráficas interactivas
+scipy	Pruebas estadísticas
+scikit-learn	Machine Learning
+streamlit	Aplicación web
+joblib	Guardar y cargar modelos
